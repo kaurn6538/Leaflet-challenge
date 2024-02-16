@@ -10,24 +10,24 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ## Contents
 
-style.css
-logic.js
-index.html
-README.md
-Requirements
+*    style.css
+*    logic.js
+*    index.html
+*    README.md
+*    Requirements
 
 ## Map
 
-TileLayer loads without error
-Connects to geojson API using D3 without error (20 points)
-Markers with size corresponding to earthquake magnitude (10 points)
-A legend showing the depth and their corresponding color (10 points)
+*    TileLayer loads without error
+*    Connects to geojson API using D3 without error (20 points)
+*    Markers with size corresponding to earthquake magnitude (10 points)
+*    A legend showing the depth and their corresponding color (10 points)
 ## Data Points
 
-Data points scale with magnitude level
-Data points colors change with depth level
-Each point has a tooltip with the Magnitude, the location and depth
-All data points load in the correct locations
+*    Data points scale with magnitude level
+*    Data points colors change with depth level
+*    Each point has a tooltip with the Magnitude, the location and depth
+*    All data points load in the correct locations
 ## Contributions
 
 If you would like to contribute to this project, you can follow these steps:
@@ -36,6 +36,6 @@ Fork the repository. Create a new branch for your changes. Make your modificatio
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact me at emilioaristegui@outlook.com
+If you have any questions, suggestions, or feedback, please feel free to contact me.
 
 Thank you for your interest in this project!
